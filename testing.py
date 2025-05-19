@@ -1,7 +1,7 @@
 from telethon.sync import TelegramClient
 
-api_id = 27029779    # Replace with your API ID
-api_hash = 'ae52e445711e8865e6520109dabbbd96'
+api_id = API-ID    # Replace with your API ID
+api_hash = 'Your_Hash'
 
 client = TelegramClient('keyword_finder_session', api_id, api_hash)
 
