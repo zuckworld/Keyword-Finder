@@ -6,9 +6,9 @@ import threading
 import asyncio
 
 # Replace with your credentials
-api_id = 27029779
-api_hash = 'ae52e445711e8865e6520109dabbbd96'
-session_name = 'keyword_search_gu_session'
+api_id = API-ID
+api_hash = 'Your_Api_Hash'
+session_name = 'your_session'
 
 # Set up event loop and client globally
 loop = asyncio.new_event_loop()
